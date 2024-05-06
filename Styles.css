@@ -1,0 +1,100 @@
+
+.menu-item {
+  display: inline;
+  text-decoration: none;
+  color: rgb(6, 6, 6);
+  padding: 14px;
+  font-size: 25px;
+}
+h1{
+  text-align: center;
+  margin-top: 5px;
+  font-family: 'Dancing Script', cursive;
+  margin-top: 5px;
+}
+
+.Navbar {
+  text-align: center;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  box-shadow:5px 5px 5px;
+  padding: 7px;
+}
+
+.image-collection {
+  width: 370px;
+  height: 270px;
+padding: 4px 4px 4px 4px;
+}
+
+table{
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+td{
+  background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 25px; 
+    width: 350px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding:15px 15px 15px 15px;
+}
+
+.Image_text {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+body {
+  background-color: rgb(255, 212, 219);
+  margin:0;
+}
+#btn-LetMove{
+  text-align: center;
+  margin: 15px 15px 15px;
+  padding:10px 20px;
+  border-radius: 8px;
+  border:none;
+  font-size: 20px;
+  outline: none;
+  cursor:pointer;
+}
+#btn-LetMove:hover{
+    background-color: black;
+    color:white;
+}
+.divl{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+}
+.label{
+    padding-left: 20px;
+}
+.City_page{
+  margin-left:0;
+  margin-top: 0;
+  margin-right:0;
+  width: 100%;
+  height: 500px;
+
+}
+.Para{
+  width:1000px;
+  font-size: 20px;
+}
+.Img_Place{
+  margin-left: 70px;
+  width: 400px;
+  height: 400px;
+  float:left;
+}
